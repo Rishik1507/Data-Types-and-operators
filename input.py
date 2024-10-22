@@ -1,5 +1,5 @@
-a=int(input("Enter a number: "))
-b=int(input("Your number: "))
+a=input("Your Firstname: ")
+b=input("Your Surname: ")
 c=a
 a=b
 b=c
